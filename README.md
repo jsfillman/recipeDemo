@@ -2,6 +2,6 @@
 
 This repository contains recipes for some foods @hirtle likes.
 
-This repository has been used in [Udacity's Git & GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+This repository has been used in [Udacity's Git & GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775).
 
-Check out this and other courses here: https://www.udacity.com/courses/all
+Check out this and other courses here: https://www.udacity.com/courses/all.
